@@ -1,0 +1,29 @@
+.card img {
+  width: 200px;
+  padding: 20px;
+}
+
+.card {
+  border: #1E3231 solid 1px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 12px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 40px;
+}
+
+.cards h3 {
+  margin: 0;
+  color: #5B8E7D;
+}
+
+.cards p {
+  margin: 0;
+  color: #1E3231;
+  text-shadow: none;
+}

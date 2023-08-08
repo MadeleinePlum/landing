@@ -1,0 +1,13 @@
+.btn-apply {
+  color: #1E3231;
+  background-color: #EFE6DD;
+  padding: 15px 30px;
+  border-radius: 25px;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.btn-apply:hover {
+  color: #5B8E7D;
+  background-color: #1E3231;
+}
